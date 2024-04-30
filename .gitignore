@@ -1,0 +1,5 @@
+backend-main/app/dao/__pycache__
+backend-main/app/routers/__pycache__
+backend-main/app/dao/__pycache__/*
+backend-main/app/routers/__pycache__/*
+**/__pycache__/
